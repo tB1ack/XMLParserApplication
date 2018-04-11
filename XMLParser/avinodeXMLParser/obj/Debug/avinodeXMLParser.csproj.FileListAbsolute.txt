@@ -1,0 +1,7 @@
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\bin\Debug\avinodeXMLParser.exe.config
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\bin\Debug\avinodeXMLParser.exe
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\bin\Debug\avinodeXMLParser.pdb
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\obj\Debug\avinodeXMLParser.csprojResolveAssemblyReference.cache
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\obj\Debug\avinodeXMLParser.csproj.CoreCompileInputs.cache
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\obj\Debug\avinodeXMLParser.exe
+D:\TylerBlackman\The Tech Academy\Job Placement\Final_Documents\Applications\Avinode\XML Parser\avinodeXMLParser\avinodeXMLParser\obj\Debug\avinodeXMLParser.pdb

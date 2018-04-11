@@ -1,0 +1,67 @@
+<menu>
+	<id>Wyvern</id>
+	<item>
+		<displayName>Home</displayName>
+		<path value="/mvc/wyvern/home"></path>
+		<subMenu>
+			<item>
+				<displayName>News</displayName>
+				<path value="/mvc/wyvern/home/news"></path>
+			</item>
+			<item>
+				<displayName>Directory</displayName>
+				<path value="/Directory/Directory.aspx" />
+				<subMenu>
+					<item>
+						<displayName>Favorites</displayName>
+						<path value="/TWR/Directory.aspx" />
+					</item>
+					<item>
+						<displayName>Search Aircraft</displayName>					
+						<path system="WYVERN" theme="WYVERN" secure="true" context="/Wyvern" value="/TWR/AircraftSearch.aspx"/>					
+					</item>
+				</subMenu>
+			</item>
+		</subMenu>
+	</item>
+	<item>
+		<displayName>PASS</displayName>				
+		<path value="/PASS/GeneratePASS.aspx"/>			
+		<subMenu>
+			<item>
+				<displayName>Create New</displayName>					
+				<path value="/PASS/GeneratePASS.aspx"/>					
+			</item>
+			<item>
+				<displayName>Sent Requests</displayName>					
+				<path value="/PASS/YourPASSReports.aspx"/>					
+			</item>
+			<item>					
+				<displayName>Received Requests</displayName>					
+				<path value="/PASS/Pending/PendingRequests.aspx"/>					
+			</item>
+		</subMenu>
+	</item>
+	<item superOverride="true">
+		<displayName>Company</displayName>
+		<path value="/mvc/company/view" />			
+		<subMenu>
+			<item>
+				<displayName>Users</displayName>					
+				<path value="/mvc/account/list"/>					
+			</item>
+			<item>
+				<displayName>Aircraft</displayName>					
+				<path value="/aircraft/fleet.aspx"/>					
+			</item>
+			<item>
+				<displayName>Insurance</displayName>					
+				<path value="/insurance/policies.aspx"/>					
+			</item>
+			<item>
+				<displayName>Certificate</displayName>					
+				<path value="/Certificates/Certificates.aspx"/>					
+			</item>
+		</subMenu>
+	</item>
+</menu>
